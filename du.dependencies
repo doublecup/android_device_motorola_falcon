@@ -1,8 +1,8 @@
 [
   {
-    "repository":   "DirtyUnicorns/android_device_motorola_msm8226-common",
+    "repository":   "CyanogenMod/android_device_motorola_msm8226-common",
     "target_path":  "device/motorola/msm8226-common",
-    "branch":       "lollipop-caf"
+    "branch":       "cm-12.1"
   },
   {
     "repository":   "DirtyUnicorns/android_device_qcom-common",
@@ -10,14 +10,14 @@
     "branch":       "lollipop-caf"
   },
   {
-    "repository":   "DirtyUnicorns/android_kernel_motorola_msm8226",
+    "repository":   "MechanicalAndroids/android_kernel_motorola_msm8226",
     "target_path":  "kernel/motorola/msm8226",
-    "branch":       "lollipop-caf"
+    "branch":       "lollipop"
   },
   {
-    "repository":   "DirtyUnicorns/android_vendor_motorola",
+    "repository":   "TheMuppets/proprietary_vendor_motorola",
     "target_path":  "vendor/motorola",
-    "branch":       "lollipop-caf"
+    "branch":       "cm-12.1"
   },
   {
     "repository":   "DirtyUnicorns/android_hardware_qcom_fm",
