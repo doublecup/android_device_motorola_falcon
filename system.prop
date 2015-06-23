@@ -2,3 +2,4 @@
 
 # radio
 rild.libargs=-d /dev/smd0
+rild.libpath=/system/vendor/lib/libril-qc-qmi-1.so
